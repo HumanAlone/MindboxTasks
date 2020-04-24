@@ -1,0 +1,9 @@
+C:\Users\HumanAlone\source\repos\MindBoxTasks\SquareComputingLibrary\bin\Debug\netstandard2.0\SquareComputingLibrary.deps.json
+C:\Users\HumanAlone\source\repos\MindBoxTasks\SquareComputingLibrary\bin\Debug\netstandard2.0\SquareComputingLibrary.dll
+C:\Users\HumanAlone\source\repos\MindBoxTasks\SquareComputingLibrary\bin\Debug\netstandard2.0\SquareComputingLibrary.pdb
+C:\Users\HumanAlone\source\repos\MindBoxTasks\SquareComputingLibrary\obj\Debug\netstandard2.0\SquareComputingLibrary.csprojAssemblyReference.cache
+C:\Users\HumanAlone\source\repos\MindBoxTasks\SquareComputingLibrary\obj\Debug\netstandard2.0\SquareComputingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HumanAlone\source\repos\MindBoxTasks\SquareComputingLibrary\obj\Debug\netstandard2.0\SquareComputingLibrary.AssemblyInfoInputs.cache
+C:\Users\HumanAlone\source\repos\MindBoxTasks\SquareComputingLibrary\obj\Debug\netstandard2.0\SquareComputingLibrary.AssemblyInfo.cs
+C:\Users\HumanAlone\source\repos\MindBoxTasks\SquareComputingLibrary\obj\Debug\netstandard2.0\SquareComputingLibrary.dll
+C:\Users\HumanAlone\source\repos\MindBoxTasks\SquareComputingLibrary\obj\Debug\netstandard2.0\SquareComputingLibrary.pdb
